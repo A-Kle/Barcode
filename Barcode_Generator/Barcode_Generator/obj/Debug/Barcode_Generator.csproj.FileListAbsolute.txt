@@ -1,0 +1,15 @@
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\bin\Debug\Barcode_Generator.exe.config
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\bin\Debug\Barcode_Generator.exe
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\bin\Debug\Barcode_Generator.pdb
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.csprojResolveAssemblyReference.cache
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.Form1.resources
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.Properties.Resources.resources
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.csproj.GenerateResource.Cache
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.exe
+c:\users\aga\documents\visual studio 2015\Projects\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.pdb
+C:\Moje Projekty\Barcode_Generator\Barcode_Generator\bin\Debug\Barcode_Generator.exe.config
+C:\Moje Projekty\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.exe
+C:\Moje Projekty\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.pdb
+C:\Repos\Barcode\Barcode_Generator\Barcode_Generator\bin\Debug\Barcode_Generator.exe.config
+C:\Repos\Barcode\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.exe
+C:\Repos\Barcode\Barcode_Generator\Barcode_Generator\obj\Debug\Barcode_Generator.pdb
